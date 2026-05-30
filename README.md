@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Muhammad Awais Khaleeq
 
-### 🚀 Data Scientist & AI Enthusiast | Co-Founder @ConvoSol | Pakistan 🇵🇰
+### 🚀 Data Scientist & AI Enthusiast | AI Software Engineer | Pakistan 🇵🇰
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Passionate+Data+Science+Student;Python+%7C+AI%2FML+%7C+Big+Data;Building+Intelligent+Solutions" alt="Typing SVG" />
 
@@ -16,10 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Python, Data Analytics, Big Data, AI/ML, Data Mining**
-- 🏢 Co-Founder at **[ConvoSol](https://convosol.com)** — building AI-powered solutions
-- 🔭 Proficient in **Python, Apache tools, Data Analytics & AI Agents**
-- 📍 Based in **D-12, Islamabad, Pakistan**
+- 🔭 Proficient in **Python, AI, Apache tools, Data Analytics & AI Agents**
 - 📫 Reach me at **ds.awaisk@gmail.com**
 
 ---
